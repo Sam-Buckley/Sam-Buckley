@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate rust dev focusing on langdev</h3>
-
-- 🔭 I’m currently working on [Crane](https://github.com/Crane-Foundation/Crane)
-
-- 🌱 I’m currently learning **Rust 🦀, Zig 🦕, Tokio.rs**
-
-- 👯 I’m looking to collaborate on [Wren](https://github.com/wren-lang/wren)
-
-- 💪 I'm most proficient with [Tide](https://github.com/http-rs/tide)
-
-- 👨‍💻 All of my projects are available at [https://GitHub.com/sam-buckley](https://GitHub.com/sam-buckley)
-
-- 💬 Ask me about **Crane, Aria, Pine**
-
-- 📫 How to reach me **samuel_buckley@outlook.com**
-
-- ⚡ Fun fact **The name crane was decided at 3am**
+Hi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
